@@ -56,7 +56,7 @@ A stunning, modern responsive landing page showcasing advanced CSS techniques wi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/dark-nexus-landing.git
+   git clone https://github.com/AdarshXKumAR/Nexus-dark-landing.git
    ```
 
 2. **Navigate to project directory**
