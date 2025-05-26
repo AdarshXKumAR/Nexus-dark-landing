@@ -29,7 +29,7 @@ A stunning, modern responsive landing page showcasing advanced CSS techniques wi
 
 ## 🚀 Demo
 
-[Live Demo](https://github.com/AdarshXKumAR/Nexus-dark-landing) 
+[Live Demo](https://adarshxkumar.github.io/Nexus-dark-landing/) 
 
 ### Desktop View
 ```
